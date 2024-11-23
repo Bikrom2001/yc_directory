@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403e5f1e-b2fa-46aa-a0c9-addc2e43c790" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/SearchForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SearchFormReset.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "ts.external.directory.path": "E:\\2024\\yc_directory\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,7 +63,8 @@
       <workItem from="1732163609674" duration="1102000" />
       <workItem from="1732165065170" duration="258000" />
       <workItem from="1732165480667" duration="7049000" />
-      <workItem from="1732186736879" duration="6865000" />
+      <workItem from="1732186736879" duration="6973000" />
+      <workItem from="1732339372403" duration="306000" />
     </task>
     <servers />
   </component>
