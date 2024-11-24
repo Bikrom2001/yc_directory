@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403e5f1e-b2fa-46aa-a0c9-addc2e43c790" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sanity/schemaTypes/startup.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/authorType.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/blockContentType.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/categoryType.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/postType.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/structure.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/structure.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +77,8 @@
       <workItem from="1732165480667" duration="7049000" />
       <workItem from="1732186736879" duration="6973000" />
       <workItem from="1732339372403" duration="1952000" />
-      <workItem from="1732341346379" duration="10047000" />
+      <workItem from="1732341346379" duration="10556000" />
+      <workItem from="1732422527756" duration="3322000" />
     </task>
     <servers />
   </component>
