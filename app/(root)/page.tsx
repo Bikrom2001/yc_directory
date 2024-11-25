@@ -10,22 +10,6 @@ export default async function Home({
 }) {
   const query = (await searchParams).query;
   const posts = await client.fetch(STARTUPS_QUERY);
-  console.log(JSON.stringify(posts, null));
-
-  // const posts = [
-  //   {
-  //     _createdAt: new Date(),
-  //     views: 55,
-  //     author: { _id: 1, name: "Bikrom" },
-  //     _id: 1,
-  //     description:
-  //       "An intelligent event planning platform that helps users create, organize, and manage events with ease by automating tasks such as venue suggestions, budgeting, guest management, and vendor coordination, all while providing real-time updates and analytics.",
-  //     image:
-  //       "https://t4.ftcdn.net/jpg/06/47/14/39/360_F_647143910_ubKhhGWWuV1hy9CgkRJ0lW6MMDQK93Xi.jpg",
-  //     category: "Robots",
-  //     title: "We Robots",
-  //   },
-  // ];
 
   return (
     <>
